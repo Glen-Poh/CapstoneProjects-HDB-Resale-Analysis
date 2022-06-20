@@ -6,6 +6,6 @@ In this project, we seek to build data visualisation to shed light on the HDB re
 (2) BTO flats that are likely to appreciate in the resale market
 
 
-######Heicoders Academy: AI100 Python Programming and Data Visualisation
+#### Heicoders Academy: AI100 Python Programming and Data Visualisation
 Juypter Notebook: Singapore_Public_Housing_(HDB)_Resale_Analysis.ipynb
 Dataset: data/HDB_Resale_With_Geocoordinates.csv
