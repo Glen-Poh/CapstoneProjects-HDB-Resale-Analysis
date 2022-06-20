@@ -9,5 +9,5 @@ In this project, we seek to build data visualisation to shed light on the HDB re
 
 #### Files:
 Juypter Notebook: **Singapore_Public_Housing_(HDB)_Resale_Analysis.ipynb**
---
+
 Dataset: **data/HDB_Resale_With_Geocoordinates.csv**
