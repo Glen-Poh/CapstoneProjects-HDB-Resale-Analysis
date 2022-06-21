@@ -1,7 +1,7 @@
 # Capstone Project: Singapore Public Housing (HDB) Resale Analysis
 #### Heicoders Academy: AI100 Python Programming and Data Visualisation
 
-In this project, we have builded a data visualisation to shed light on the HDB resale market, and provide key consideration parameters to help us make better decisions in choosing a:
+In this project, we have built a data visualisation to shed light on the HDB resale market, and provide key consideration parameters to help us make better decisions in choosing a:
 
 (1) HDB Resale flat, or
 
